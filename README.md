@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-#
 
-GitHub Stats
+
+### GitHub Stats
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=mbm149&show_icons=true&locale=en" alt="mbm149" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbm149&" alt="mbm149" />
