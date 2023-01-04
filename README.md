@@ -2,18 +2,14 @@
 
 <!--
 **mbm149/mbm149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+I am currently a Cloud Security Incident Response Analyst(www.linkedin.com/in/michael-brand-martinez-mbm). I am always eager to learn, collaborate and make an impact!!!
+
+- 🔭 I’m currently working as Cloud Security Incident Response Analyst 
+- 🌱 I’m currently learning GCP, ArgoCd, and Terrarom
+- 📫 How to reach me: mbm.25149@gmail.com
+- ⚡ bilingual (English && Spanish ) 
+
 
 
 ### 🧰 Languages and Tools
@@ -30,11 +26,11 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
-</p>
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbm149&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/mbm149/github-readme-stats)
 
---> 
+</p>
+
 
 ### GitHub Stats
 ---
