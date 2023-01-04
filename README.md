@@ -6,7 +6,7 @@
 I am currently a Cloud Security Incident Response Analyst(www.linkedin.com/in/michael-brand-martinez-mbm). I am always eager to learn, collaborate and make an impact!!!
 
 - 🔭 I’m passionate about Cloud Security, Incdent Response and DevOps/DevSecOps 
-- 🌱 I’m currently learning GCP, ArgoCd, and Terrarom
+- 🌱 I’m currently learning GCP, ArgoCD, and Terrarom
 - 📫 How to reach me: mbm.25149@gmail.com
 - ⚡ bilingual (English && Spanish ) 
 
