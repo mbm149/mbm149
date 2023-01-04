@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ### 🧰 Languages and Tools
 <p>
 
@@ -30,6 +31,10 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 #
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbm149&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/mbm149/github-readme-stats)
+
+--> 
 
 ### GitHub Stats
 ---
