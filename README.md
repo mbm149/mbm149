@@ -1,39 +1,45 @@
-### Hi I am Michael BM!! 👋
+### Hi, I am Michael BM!! 👋
 
 <!--
 **mbm149/mbm149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 I am currently a Cloud Security Incident Response Analyst(www.linkedin.com/in/michael-brand-martinez-mbm). I am always eager to learn, collaborate and make an impact!!!
 
-- 🔭 I’m currently working as Cloud Security Incident Response Analyst 
+- 🔭 I’m passionate about Cloud Security, Incdent Response and DevOps/DevSecOps 
 - 🌱 I’m currently learning GCP, ArgoCd, and Terrarom
 - 📫 How to reach me: mbm.25149@gmail.com
 - ⚡ bilingual (English && Spanish ) 
 
 
 
-### 🧰 Languages and Tools
+#### Languages
 <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="linux" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="python" width="40" height="40"/>
 
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-<img align="left" alt="K8s" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-<img align="left" alt="ArgoCd" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </p>
 
-<p>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbm149&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/mbm149/github-readme-stats)
+
+#### Tools and Frameworks
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="python" width="40" height="40"/>
 </p>
 
 
-### GitHub Stats
+Connect with me
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=mbm149&show_icons=true&locale=en" alt="mbm149" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mbm149&" alt="mbm149" />
+
+<a href="www.linkedin.com/in/michael-brand-martinez-mbm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Michael Brand" height="30" width="40" /></a>
 ---
+<a/>www.mbrandmcloudresume.com</a>
+
