@@ -36,6 +36,12 @@ I am currently a Cloud Security Incident Response Analyst(www.linkedin.com/in/mi
 </p>
 
 
+GitHub Stats
+---
+<img src="https://github-readme-stats.vercel.app/api?username=mbm149&show_icons=true&locale=en" alt="mbm149" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mbm149&" alt="mbm149" />
+
+
 Connect with me
 ---
 
