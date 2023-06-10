@@ -10,7 +10,7 @@ I am currently a Cloud Security Incident Response Analyst(www.linkedin.com/in/mi
 - 📫 How to reach me: mbm.25149@gmail.com
 - ⚡ bilingual (English && Spanish ) 
 
-- <h2/> 🕸️ mbrandmcloudresume.com </h2>
+- <h2/> 🕸️ www.mbrandmcloudresume.com </h2>
 
 
 
